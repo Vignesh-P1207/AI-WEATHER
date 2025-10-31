@@ -7,7 +7,7 @@ import pyttsx3
 import threading
 import os
 
-API_KEY = "2c9f67f58b9a7f3465c2b68b0ce5f413"
+API_KEY = "YOUR_API_KEY"
 BG_IMAGE = "bg.jpg"
 
 def predict_rain(humidity, cloudiness, temp):
